@@ -1,0 +1,11 @@
+Area_name,Area_code,Area_type,Specimen_date,Daily_lab_confirmed_cases,Cumulative_lab_confirmed_cases,Cumulative_lab_confirmed_cases_rate,Population
+England,E92000001,Nation,2020-07-23,0,255740,456.9,560000.0
+North West,E12000002,Region,2020-07-23,0,44678,612.7,73000.0
+South East,E12000008,Region,2020-07-23,0,34873,381.8,91800.0
+London,E12000007,Region,2020-07-23,0,34791,390.6,89800.0
+Yorkshire and The Humber,E12000003,Region,2020-07-23,0,31077,567.1,59400.0
+West Midlands,E12000005,Region,2020-07-23,0,26479,448.7,59100.0
+East of England,E12000006,Region,2020-07-23,0,24337,392.5,62400.0
+East Midlands,E12000004,Region,2020-07-23,0,22820,475.0,48100.0
+North East,E12000001,Region,2020-07-23,0,15263,574.2,26600.0
+South West,E12000009,Region,2020-07-23,0,13020,232.5,56200.0

@@ -1,0 +1,6 @@
+.DS_Store
+./datasets/DS_Store
+./src/DS_Store
+.git
+.ipynb_checkpoints
+./src/ipynb_checkpoints
